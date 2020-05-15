@@ -4,5 +4,6 @@ def add(x):
 var=map(add,[1,2,3])
 a=next(var)
 print(a)
+print("yes,its done")
 
 
